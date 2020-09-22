@@ -1,4 +1,4 @@
-# Randdog
+# Randog
 This app implements an interface, allowing user to get random picture of a dog according to selected breed.
 
 The app comes to practice usage of basic Network HTTP requests, public APIs and JSON.
